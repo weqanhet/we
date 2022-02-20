@@ -4,6 +4,8 @@
     "witness": "ed25519_sig1zv9juyvq5uwgg3mfynw7mr7wmrwkhdlg383qx3zacw9560rcqfqu4gaw7mvzq64dusc2q7awrgsv3mtgszunuzzeelnr8ndwtzsq6qgq4kpsk"
   },
   "info": {
+    "url_png_icon_64x64": "https://weqntstakepool.nl/.cm4all/uproc.php/0/.WEQNT%20Avatar%201.jpg/picture-1600?_=174223235b0",
+    "url_png_logo": "https://pbs.twimg.com/profile_images/1355933706595274753/2xJSvEUZ_400x400.jpg",
     "https://twitter.com/DenicioBernier",
     "https://twitter.com/DenicioBernier/header_photo",
     "location": "The Netherlands, Europe",
@@ -25,7 +27,7 @@
       "vat_id": ""
     },
     "about": {
-      "me": "Stake Pool WEQNT is a high-performance, bare-metal Stake Pool. On August 1st 2020 we were successfully registered on the Cardano main net with our continued mission to provide basic lightning to people living in remote areas of Kenya, Uganda, Ethiopia and parts of the Caribbean. For more information about our mission we encourage you to  browse our website: https://weqntstakepool.nl/  We invite you to delegate to WEQNT - a purpose driven stake pool.",
+      "me": "Stake Pool WEQNT is a high-performance, bare-metal Stake Pool. On August 1st 2020 we were successfully registered on the Cardano main net with our continued mission to provide basic lightning to people living in remote areas of Kenya, Uganda, Ethiopia and parts of the Caribbean. For more information about our mission we encourage you to  browse our website: https://weqntstakepool.nl/  We invite you to delegate to WEQNT - a purpose driven stake pool.",
       "server": "HP Proliant Microserver, Stable and reliable 24/7 365d/y with reliable Dutch internet connection.”,
       "company": ""
     },
