@@ -33,14 +33,13 @@
     },
     "rss": ""
   },
-  "telegram-admin-handle": {
-    "0": ""
-  },
-  "my-pool-ids": {
-    "0": "a24a0b7f7dec890db8c59c47646290522234a522a98f00cf2d589a80"
-  },
-  "when-satured-then-recommend": {
-    "0": "a24a0b7f7dec890db8c59c47646290522234a522a98f00cf2d589a80"
-
-  }
+  "telegram-admin-handle": [
+    ""
+  ],
+  "my-pool-ids": [
+    "a24a0b7f7dec890db8c59c47646290522234a522a98f00cf2d589a80"
+  ],
+  "when-satured-then-recommend": [
+    "a24a0b7f7dec890db8c59c47646290522234a522a98f00cf2d589a80"
+  ]
 }
