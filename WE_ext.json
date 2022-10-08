@@ -1,4 +1,5 @@
 {
+	"verification":"729661b082d2952ba1",
 	"itn": {
 		"owner": "ed25519_pk17gp3lkg7dasuyfe3zap00tcsa9xulwkkag4za25kjlp820ek8x4qmznuwp",
 		"witness": "ed25519_sig1zv9juyvq5uwgg3mfynw7mr7wmrwkhdlg383qx3zacw9560rcqfqu4gaw7mvzq64dusc2q7awrgsv3mtgszunuzzeelnr8ndwtzsq6qgq4kpsk"
@@ -39,7 +40,5 @@
 	],
 	"when-satured-then-recommend": [
 		"a24a0b7f7dec890db8c59c47646290522234a522a98f00cf2d589a80"
-	
-	729661b082d2952ba1
 	]
 }
